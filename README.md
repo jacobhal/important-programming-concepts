@@ -1,2 +1,19 @@
-# important-programming-concepts
-Notes about some of the more important concepts of programming
+# Important programming concepts
+
+## Dependency injection
+
+## Inversion of control
+
+## Polymorphism
+
+### Composition vs inheritance
+
+## Encapsulation
+
+## CRM
+
+## CMS
+
+
+
+
