@@ -27,5 +27,11 @@ Search in Windows for "Event Viewer" -> Windows Logs -> Application.
 
 Sometimes you can find extra information there if you cannot find any logs or crashes when debugging.
 
+### Enivoronment Variables
+
+Search in Windows for "env" -> "Edit the system environment variables" -> Environment Variables.
+
+> SOME applications/systems are case sensitive when it comes to environmentr variables. Make sure they are capital case if you have problems.
+
 
 
