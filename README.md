@@ -14,6 +14,9 @@
 
 ## CMS
 
+## CRUD
+Create, Read, Update, Delete
+
 ## Windows
 
 ### Certificate Manager
